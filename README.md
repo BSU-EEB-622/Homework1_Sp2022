@@ -3,7 +3,7 @@ Thanks for joining our github classroom!
 
 Your homework for this week is to:
 
-1) Download R & R Studio if you haven't already.
+1) Create a github account.
 2) Join this github classroom (good work!) (due Tuesday 1/18)
 3) Fill out the introduction questionnaire for this class using Github (due Tuesday 1/18 at 8:30am). The questionnaire can be found in the file called "Homework 1" in this repository.
 
